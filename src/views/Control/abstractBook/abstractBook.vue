@@ -1,5 +1,5 @@
 <template>
-  <router-view />
+  <div><p>abstractBook</P></div>
 </template>
 
 <script lang='ts'>

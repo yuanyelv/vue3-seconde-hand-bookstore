@@ -1,5 +1,5 @@
 <template>
-  <router-view />
+  <div><p>booksRecycle</P></div>
 </template>
 
 <script lang='ts'>
